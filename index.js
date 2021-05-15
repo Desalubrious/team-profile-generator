@@ -16,6 +16,7 @@ function init() {
     addEmployee();
 }
 
+// Inquirer asks the user questions, and generates an employee.
 function addEmployee() {
     inquirer.prompt([{
         message: "Enter team member's name:",
