@@ -12,6 +12,8 @@
 - [Additional Info](#additional-info)
 
 ## Description:
+Walkthrough Video:
+
 This app generates an easy to use team profile, so employee information is easily accessible, and in one place.
 ```
 GIVEN a command-line application that accepts user input
@@ -51,6 +53,7 @@ Open a pull request.
 npm run test
 
 ## Documentation:
+![Demo Gif](https://github.com/Desalubrious/team-profile-generator/blob/main/assets/teamgif.gif?raw=true)
 
 ## Additional Info:
 - Github: ![desalubrious](https://github.com/desalubrious)
